@@ -30,5 +30,12 @@
     ".next/dev/types/**/*.ts",
     "**/*.mts"
   ],
-  "exclude": ["node_modules"]
+  "exclude": [
+    "node_modules",
+    "project-output",
+    "scripts/**",
+    "lib/tools/**",
+    "lib/rag/**",
+    "lib/security/**"
+  ]
 }
