@@ -1,0 +1,32 @@
+{
+  "summary": "Build a website for modern users.",
+  "techStack": [
+    "Next.js",
+    "Tailwind CSS",
+    "Vercel"
+  ],
+  "keyFeatures": [
+    "Responsive marketing pages",
+    "Contact / lead capture",
+    "Analytics-ready"
+  ],
+  "pagesOrScreens": [
+    "Home",
+    "Features",
+    "Pricing",
+    "Contact"
+  ],
+  "dataModel": [
+    "User",
+    "Record"
+  ],
+  "apiRoutes": [
+    "/api/health",
+    "/api/entities",
+    "/api/activity"
+  ],
+  "risks": [
+    "Replace mocks with real agent calls",
+    "Security review pending"
+  ]
+}

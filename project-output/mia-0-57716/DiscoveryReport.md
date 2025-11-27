@@ -1,0 +1,5 @@
+{
+  "q1": "To better assist you, could you please specify the type of project you're working on? This will help me tailor the questions and gather the necessary information for your specific project type, whether it's a Website, Web App, Mobile App, Database, or Web3 dApp.",
+  "q2": "To effectively understand your project's primary users, I need to know the type of project you're working on. Could you please specify whether it's a Website, Web App, Mobile App, Database, or Web3 dApp? This will help me ask the right questions and gather detailed information.",
+  "q3": "To provide you with the most relevant guidance, could you please specify the type of project you're working on? Is it a Website, Web App, Mobile App, Database, or Web3 dApp? Knowing this will help me tailor the questions to your specific project type and gather detailed requirements."
+}

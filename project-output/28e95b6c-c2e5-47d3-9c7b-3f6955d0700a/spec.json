@@ -1,0 +1,31 @@
+{
+  "summary": "build me a landing page for a hearing aid brand called can you hear me.",
+  "techStack": [
+    "Next.js",
+    "Tailwind CSS",
+    "Vercel"
+  ],
+  "keyFeatures": [
+    "I just want it have a solid hook with a cta"
+  ],
+  "pagesOrScreens": [
+    "Home",
+    "Features",
+    "Pricing",
+    "Contact"
+  ],
+  "dataModel": [
+    "User",
+    "Integration",
+    "Activity"
+  ],
+  "apiRoutes": [
+    "/api/health",
+    "/api/entities",
+    "/api/activity"
+  ],
+  "risks": [
+    "Replace mocks with real agent calls",
+    "Security review pending"
+  ]
+}

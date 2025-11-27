@@ -1,0 +1,31 @@
+{
+  "summary": "I want to build a website that showcases my product. I want it fully loaded with pictures and videos. This should be a simple landing page showcasing my hearing aids. ",
+  "techStack": [
+    "Next.js",
+    "Tailwind CSS",
+    "Vercel"
+  ],
+  "keyFeatures": [
+    "I want the hearing aids as the center of attention ."
+  ],
+  "pagesOrScreens": [
+    "Home",
+    "Features",
+    "Pricing",
+    "Contact"
+  ],
+  "dataModel": [
+    "User",
+    "Integration",
+    "Activity"
+  ],
+  "apiRoutes": [
+    "/api/health",
+    "/api/entities",
+    "/api/activity"
+  ],
+  "risks": [
+    "Replace mocks with real agent calls",
+    "Security review pending"
+  ]
+}
