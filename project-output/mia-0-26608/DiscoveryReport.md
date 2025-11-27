@@ -1,0 +1,5 @@
+{
+  "q1": "To help me better understand your needs, could you first tell me the type of project you have in mind? For example, is it a Website, Web App, Mobile App, Database, or a Web3 dApp? This will help tailor my questions to gather the most relevant details.",
+  "q2": "To identify the primary users effectively, could you first tell me what type of project you're working on? For instance, is it a Website, Web App, Mobile App, Database, or a Web3 dApp? This will help me ask more specific questions about your target audience.",
+  "q3": "Before diving into features, it would be helpful to know the type of project you're working on, such as a Website, Web App, Mobile App, Database, or Web3 dApp. Understanding the project type will allow me to guide the conversation and gather the most pertinent details about the core features you need."
+}
